@@ -1,4 +1,6 @@
 ---
+ms_chrome_enabled: false
+
 # defaults file for googlechrome
 googlechrome_app_name: google-chrome-stable
 googlechrome_gpg_key: https://dl.google.com/linux/linux_signing_key.pub
